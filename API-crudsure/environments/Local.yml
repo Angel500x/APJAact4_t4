@@ -1,0 +1,8 @@
+name: Local
+variables:
+  - name: baseUrl
+    value: http://localhost:8088
+    description: ""
+  - name: token
+    value: eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJhbmdlbEBjb3JyZW8uY29tIiwiaWF0IjoxNzk0NTQwNDMxLCJleHAiOjE3OTQ2MjY4MzF9.mac3f0KeFIpUf_l1urhYHGbzf1lmKdSIc9LathMmZFhPVPOCHpYzFrO6HViebDOl
+    description: ""
